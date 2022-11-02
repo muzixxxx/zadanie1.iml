@@ -2,7 +2,7 @@
 import java.io.*;
 import java.nio.file.*;
 import java.util.Scanner;
-//dada.dasd
+
 public class Main {
     public String readFile(String fileName,Person person)
     {
